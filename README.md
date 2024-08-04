@@ -23,27 +23,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Code%20Master-FF6F61?style=for-the-badge&logo=code&logoColor=white" alt="Code Master" style="animation: rotate 5s linear infinite;" />
 </div>
 
-<style>
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.05);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-@keyframes rotate {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-</style>
+
 
 ---
 
